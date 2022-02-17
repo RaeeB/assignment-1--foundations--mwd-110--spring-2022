@@ -48,7 +48,7 @@ Verify that it’s working by opening an HTML document in Atom, then saving. Err
 ---
 
 ## Due Date
-⏰ **Wednesday, 16 February 2022, at 8:00 AM. At that time, the repo will be closed and will not accept any more submissions. 🚫 _No late work will be accepted._**
+⏰ **Wednesday, 23 February 2022, at 8:00 AM. At that time, the repo will be closed and will not accept any more submissions. 🚫 _No late work will be accepted._**
 
 ---
 
